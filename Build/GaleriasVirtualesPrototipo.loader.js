@@ -52,7 +52,7 @@ function createUnityInstance(canvas, config, onProgress) {
     canvas: canvas,
     webglContextAttributes: {
       preserveDrawingBuffer: false,
-      powerPreference: 1,
+      powerPreference: 2,
     },
     wasmFileSize: 63796374,
     streamingAssetsUrl: "StreamingAssets",
