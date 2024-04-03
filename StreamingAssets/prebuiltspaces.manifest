@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.0b13
+CRC: 3007683024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc6e1016b97dd099e46f31d1c7281558
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1ce6963effce5f03ac8decb42f070d89
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37aae19481834858ace48b3a902cf02c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/prebuiltspaces/PrebuiltSpace_1.prefab
+- Assets/BundledAssets/prebuiltspaces/PrebuiltSpace_2.prefab
+Dependencies: []
